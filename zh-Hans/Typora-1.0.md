@@ -98,4 +98,4 @@ Typora提供15天的免费试用，如果您已经提交接受了[翻译](https:
 
 关于激活/试用的问题，请[点击这里](https://support.typora.io/activation)。
 
-关于购买/订购的问题，请[点击这里](https://support.typora.io/purchase)。
+关于购买/订购的问题，请[点击这里](https://support.typora.io/purchase)
